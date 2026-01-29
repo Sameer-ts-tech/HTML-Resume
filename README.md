@@ -10,3 +10,6 @@ git clone https://github.com/Sameer-ts-tech/HTML-Resume.git
 - Once the repo gets cloned successfully.
 - Open the folder in your favourite IDE.
 - Then start the live server.
+
+## Live link
+[Tap to preview](https://html-resume-sameer.netlify.app/)
